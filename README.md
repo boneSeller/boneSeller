@@ -12,6 +12,9 @@
   <a href="https://vk.com/id164162745">
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK badge">
   </a>
+    <a href="mailto:d.oreh@mail.ru">
+    <img src="https://img.shields.io/badge/email-9cf?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Mail badge">
+  </a>
 </div>
 
  <div id="counter">
